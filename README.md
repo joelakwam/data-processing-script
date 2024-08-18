@@ -1,4 +1,4 @@
-# DATA PROCESSING SCRIPT.
+# DATA PROCESSING SCRIPT FOR A MOVIE REVIEW SENTIMENT CLASSIFIER PROJECT.
 This is a simple Python script that loops through TEXT ('.txt') files in a provided folder, extracts the text and labels if it's either, NEGATIVE or POSITIVE sentiment and saves it in a newly created CSV file in the specified path.
 
 
